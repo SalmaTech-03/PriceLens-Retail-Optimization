@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.DS_Store
+.vscode/
+venv/
+env/
+PriceLens_Optimization.pbix
