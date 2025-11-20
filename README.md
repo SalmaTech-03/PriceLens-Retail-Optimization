@@ -16,10 +16,6 @@
 
 <br />
 
-<!-- DASHBOARD IMAGE -->
-<div align="center">
-  <img src="reports/dashboard_screenshot.png" alt="PriceLens Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.5);">
-</div>
 
 ---
 
